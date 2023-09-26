@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0%2B-green.svg)
 
-A simple Flask project template to kickstart your web development journey.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Highlights](#project-highlights)
